@@ -13,6 +13,10 @@
 - **自定义热键** — 可在设置中修改全局快捷键
 - **点击外部自动隐藏** — 点击窗口外区域或桌面自动收起
 
+## 截图
+
+![DeskTodo 截图](https://raw.githubusercontent.com/yapingbai906/ToDo/main/demo.png)
+
 ## 下载安装
 
 1. **[Download ToDo_0.1.0_x64.dmg](https://github.com/yapingbai906/ToDo/releases/download/v0.1.0/ToDo_0.1.0_x64.dmg)**
