@@ -19,7 +19,7 @@
 
 ## 下载安装
 
-1. **[Download ToDo_0.1.0_x64.dmg](https://github.com/yapingbai906/ToDo/releases/download/v0.1.0/ToDo_0.1.0_x64.dmg)**
+1. **[Download ToDo_0.1.0.dmg](https://github.com/yapingbai906/ToDo/releases/download/v0.1.0/ToDo_0.1.0.dmg)**
 2. 打开 DMG，将 **ToDo.app** 拖入应用程序
 3. 首次运行需在「系统设置 → 隐私与安全性 → 安全性」中允许运行
 
