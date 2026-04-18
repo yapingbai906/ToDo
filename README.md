@@ -15,7 +15,7 @@
 
 ## 截图
 
-![DeskTodo 截图](https://raw.githubusercontent.com/yapingbai906/ToDo/main/demo.png)
+<img src="https://raw.githubusercontent.com/yapingbai906/ToDo/main/demo.png" width="640" alt="DeskTodo 截图"/>
 
 ## 下载安装
 
